@@ -1,2 +1,0 @@
-OOP.Demo
-OOP.Person
